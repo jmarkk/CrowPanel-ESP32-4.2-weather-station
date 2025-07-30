@@ -1,4 +1,4 @@
-# E-Ink Weather Station
+# CrowPanel ESP32 4.2" E-paper Display Weather Station
 
 ![IMG_7173](https://github.com/user-attachments/assets/415caaca-9e34-4ed2-b476-34497108d246)
 
