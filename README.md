@@ -1,5 +1,7 @@
 # E-Ink Weather Station
 
+![IMG_7173](https://github.com/user-attachments/assets/415caaca-9e34-4ed2-b476-34497108d246)
+
 This project is an Arduino-based weather station that displays real-time weather data and a clock on a GxEPD2-compatible e-paper display. It fetches weather data from OpenWeatherMap and sensor readings via MQTT, updating the display with relevant icons and values.
 
 **This project uses the CrowPanel ESP32 4.2inch E-paper HMI Display.**
@@ -56,6 +58,7 @@ This project is an Arduino-based weather station that displays real-time weather
 - **Sensor Data**: When MQTT messages arrive, the device parses temperature, humidity, and pressure, then updates the display.
 - **Clock**: The time is synchronized via NTP and updated every minute.
 - **Display Updates**: Only changed areas of the display are refreshed for efficiency.
+
 
 ## Customization
 
